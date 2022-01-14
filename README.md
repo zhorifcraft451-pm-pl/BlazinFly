@@ -3,7 +3,7 @@
 ## License
 | License |
 | :---: |
-| [![BlazinJoin License](https://img.shields.io/github/license/iiFlamiinBlaze/BlazinFlyX.svg?label=License)](LICENSE) |
+| [![BlazinJoin License](https://img.shields.io/github/license/zhorifcraft451-pm-pl/BlazinFlyX.svg?label=License)](LICENSE) |
 
 Make sure to read all of the license as it could change at anytime.
 
