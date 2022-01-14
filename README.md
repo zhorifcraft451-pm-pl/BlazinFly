@@ -8,8 +8,8 @@
 Make sure to read all of the license as it could change at anytime.
 
 ## Information
-| Download | Discord |
-| :---: | :---: | 
+| Download |
+| :---: | 
  <a href="https://poggit.pmmp.io/p/BlazinFlyX"><img src="https://poggit.pmmp.io/shield.state/BlazinFlyX"></a>
  
 This plugin allows you to fly in survival mode. This plugin is for anyone to use.
