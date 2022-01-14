@@ -3,7 +3,7 @@
 ## License
 | License |
 | :---: |
-| [![BlazinJoin License](https://img.shields.io/github/license/iiFlamiinBlaze/BlazinFly.svg?label=License)](LICENSE) |
+| [![BlazinJoin License](https://img.shields.io/github/license/iiFlamiinBlaze/BlazinFlyX.svg?label=License)](LICENSE) |
 
 Make sure to read all of the license as it could change at anytime.
 
@@ -13,7 +13,7 @@ Make sure to read all of the license as it could change at anytime.
  <a href="https://poggit.pmmp.io/p/BlazinFlyX"><img src="https://poggit.pmmp.io/shield.state/BlazinFlyX"></a>
  
 This plugin allows you to fly in survival mode. This plugin is for anyone to use.
-If you have any issues with the plugin, please make an issue [here](https://github.com/zhorifcraft451-pm-pl/BlazinFly/issues/new).
+If you have any issues with the plugin, please make an issue [here](https://github.com/zhorifcraft451-pm-pl/BlazinFly/pulls).
 * Credits: [BlazeTheDev](https://github.com/iiFlamiinBlaze)
 
 ## How to use
