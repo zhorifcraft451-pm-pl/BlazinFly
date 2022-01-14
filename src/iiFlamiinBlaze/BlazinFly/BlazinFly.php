@@ -68,7 +68,7 @@ class BlazinFly extends PluginBase implements Listener{
 		}
 	}
 
-	public function onLevelChange(EntityTeleportEvent $event) : void{
+	public function onTeleport(EntityTeleportEvent $event) : void{
 		$entity = $event->getEntity();
 		if($entity instanceof Player) $this->multiWorldCheck($entity);
 	}
