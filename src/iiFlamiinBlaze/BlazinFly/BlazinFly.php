@@ -90,7 +90,7 @@ class BlazinFly extends PluginBase implements Listener{
 					$sender->setAllowFlight($sender->getAllowFlight() === false ? true : false);
 					$sender->setFlying($sender->isFlying() === false ? true : false);
 				}else{
-					$sender->sendMessage(self::PREFIX . TextFormat::RED . "You can only use this command in survival mode");
+					$sender->sendMessage(self::PREFIX . TextFormat::RED . "You only can use this command in survival mode");
 					return false;
 				}
 				return false;
